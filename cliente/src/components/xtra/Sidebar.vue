@@ -38,21 +38,21 @@
   </script>
   
   <style scoped>
-  /* Personalización de estilos del sidebar */
+  
   #sidebar {
-    border-right: 1px solid #dee2e6; /* Línea divisoria a la derecha */
-    z-index: 1; /* Establecer un valor positivo para estar detrás del contenido principal */
+    border-right: 1px solid #dee2e6; 
+    z-index: 1; 
   }
   
   .active {
-    background-color: #007bff; /* Color de fondo para la página activa */
-    color: #fff !important; /* Color de texto para la página activa */
+    background-color: #007bff; 
+    color: #fff !important; 
   }
   
-  /* Desactivar subrayado de enlaces */
+
   #sidebar a {
     text-decoration: none !important;
-    z-index: 1; /* Establecer un valor positivo para estar detrás del contenido principal */
+    z-index: 1; 
   }
   </style>
   

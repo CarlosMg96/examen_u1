@@ -100,6 +100,5 @@
   </script>
   
   <style>
-  /* Tus estilos aquí */
   </style>
   

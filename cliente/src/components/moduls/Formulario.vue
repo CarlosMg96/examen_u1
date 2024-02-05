@@ -119,12 +119,10 @@
   .b-form-group.is-invalid {
     color: red;
     background-color: #ffe6e6;
-    /* Puedes personalizar este estilo según tus necesidades */
   }
   
   .invalid-feedback {
     color: red;
-    /* Puedes personalizar este estilo según tus necesidades */
   }
   </style>
   

@@ -31,7 +31,6 @@
           { text: 'Autos', href: '/cars' },
           { text: 'Nuevo Auto', href: '/form' },
           { text: 'Home', href: '/home', active: true },
-          // Agrega más migas de pan según sea necesario
         ],
       };
     },
@@ -39,6 +38,5 @@
   </script>
   
   <style>
-  /* Puedes agregar estilos personalizados aquí si es necesario */
   </style>
   
